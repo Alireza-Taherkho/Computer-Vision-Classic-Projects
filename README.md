@@ -30,9 +30,8 @@ python main.py
 
 ### Sample Image
 
-<p align="center">
-  <img src="outputs/1.png" width="400">
-</p>
+(outputs/1.png)
+(outputs/2.png)
 
 ### Demo Video
 
