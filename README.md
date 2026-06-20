@@ -30,8 +30,8 @@ python main.py
 
 ### Sample Image
 
-(outputs/1.png)
-(outputs/2.png)
+![Result](outputs/1.png)
+![Result](outputs/2.png)
 
 ### Demo Video
 
