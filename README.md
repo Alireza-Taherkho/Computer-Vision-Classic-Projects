@@ -26,17 +26,6 @@ pip install opencv-python numpy matplotlib
 python main.py
 ```
 
-## Results
-
-### Sample Image
-
-![Result](outputs/1.png)
-![Result](outputs/2.png)
-
-### Demo Video
-
-[https://github.com/user-attachments/assets/your-video-link](https://github.com/Alireza-Taherkho/Computer-Vision-Classic-Projects/blob/main/1)%20countung%20vehicles/output/output.mp4)
-
 ## Notes
 
 The ROI coordinates and contour thresholds are customized for the provided street video and may require adjustment for other camera views.
