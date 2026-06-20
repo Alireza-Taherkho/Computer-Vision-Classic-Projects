@@ -31,8 +31,7 @@ python main.py
 ### Sample Image
 
 <p align="center">
-  <img src="output/1.png" width="700">
-  <img src="output/2.png" width="700">
+  <img src="outputs/1.png" width="400">
 </p>
 
 ### Demo Video
